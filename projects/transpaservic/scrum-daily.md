@@ -109,13 +109,13 @@ Tener todos los diseños listos en Figma para comenzar a desarrollar con una gu�
 ### Día 2 - 02/05/2025
 
 - **¿Qué hice ayer?**
-  - Luis: Comencé formulario de login
-  - Ana: Implementé endpoint de login con JWT
+  - Felipe: Comencé formulario de login
+  - Frank: Implementé endpoint de login con JWT
 - **¿Qué haré hoy?**
-  - Luis: Validar formulario e integrar con backend
-  - Ana: Crear modelo de producto y seed inicial
+  - Felipe: Validar formulario e integrar con backend
+  - Frank: Crear modelo de orden y seed inicial
 - **¿Algún bloqueo?**
-  - Luis: Estoy esperando las credenciales de prueba
+  - Felipe: Estoy esperando las credenciales de prueba
 
 ---
 

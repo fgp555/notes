@@ -1,0 +1,149 @@
+mobile - loop en mobile
+web - crear enpoint para enviar fecha de vencimiento de wablas
+web - en editar user agregar quitar operador
+* movil - Rol Colaborador que pueda subir órdenes, listar, exportar, sin edición.
+* movil - recordar user pass
+
+cambiar Mi cuenta por mi perfil
+agregar boton "salir"
+cambiar nomde de "buscar" por "ordenes"
+movil - en el input poner max. 2
+
+movil: validar cantidad usada, que no sea mayor a la solicitada
+guardar credenciales en mobile
+
+
+================= Mobile: =========================
+mostrar hora y notificacion colo rojo
+loading en boton iniciar session
+actualizar dev. con las ordenes
+infinite scroll
+En detalle poner loading 
+ampliar imagene en al mobile con gestos
+boton copiar numero de orden
+Redireccionar aprobar 
+si no esta conectado hay loop infinito en list order / solucion con refesh token
+Operador esconder 
+push notification
+refresh token
+camara: procesando / redireccionar / actualizar detalles
+
+
+================= Full Stack optionals: =========================
+
+
+admin backup files in front
+backup imgs
+crear un selector para ver las columnas de las tablas en los tickets (opcional)
+animacion login
+agregar: no soy un robot
+optimizacion de reactjs
+probar rendimiento de carga de la web en aws
+aprobacion masiva por importacion de csv
+quitar icomoon
+
+
+==========  completadas ==========
+en lista de ordenes cambiar destino por itinerario (columna)
+busqueda corregir el place holder
+en vista previa en este pantallazo, seria bueno si al darle click a la imagen, se la deja ver completa?
+cambiar el icono de favicon
+generar contrasena en toast
+en lista de ordenes No olvides en este pantallazo ikncluir la exportacion a excel CSV y pdf
+# de ordenes y contratos para verificar que no los suba repetidos
+numero de contrato y numero de orden no se pueden repetir
+flecha atraz para pagina de detalles
+imagen de perfil del logo de transpaservic
+recuperar y resetear contraseña 
+cheque eliminarlo
+en lugar de diagnostico poner numero de autorizacion
+descargar de csv esta fallando, revisar orden en pdf
+loading al boton de subir a la base de datos (excel)
+ocutar imagen si es null
+enviar mensajes por whatsapp en la importacion
+verificar token al inicial app
+ocultar backticket en modo usuario
+en importacion: mantener el encabazado - mostrar la barra de navegacion horizontal
+en volver atraz solo atraz con flecha
+a la subida de imagenes agregar swit alert - desea aprobar el ticke? luego, se a aprobado correctamente
+error en: actualizar usuario
+rutas privadas en el front
+esta viendo q tu página se desplaza no esta ajustada al viewport
+corregir bug de user / admin (el usuario puede ver lo de admin)
+loading
+subida de imagenes comprimidas
+pagina de cliente/ aceptar y subir ticket
+404
+estilos a enum de stado de ordenes
+y recuerda que las ordenes despues de 48 dias sin aprobación, pasan a cancelado
+copias de seguridad cada domingo a las 3 am
+poner en en #order el detalle de la orden en lugar del ojo
+en la tabla order mostrar backticket solo al admin
+S: fecha tentativa (emision)
+fecha de cumplimiento (fecha y hora)
+Q: fecha real de viaje
+en vista detalles:
+campos:
+fecha real de viaje
+cantidad de ticketes
+valor de ticketes
+2025-02-17
+no reiniciar el login page al error de token
+recargar el mismo archivo excel 
+validacion: la cantidad de tiketes usados no debe ser superior a la solicitada
+eliminar input "fecha real de viaje" en detalles modo operador
+validacion en form de cumplir ticket
+copias de base de datos no acumulable (7 copias)
+desplegable para proveedor y minicipio origin y destino
+vigencia 48 dias (inhabilitar) el admin puede volver a habilitado
+backticket en DESC
+agregar columnas en la tabla ordenes:
+cambiar fecha de viaje por fecha tentativa
+fecha de cumplimento
+fecha real de viaje
+cambiar estado a aprobado a cumplido
+error en: actualizar orden page
+checkbox "enviar whatsap" para import excel 
+error en la fecha de la lista de ordenes
+poner status online de whatsapp - implementar config/whatsapp, dashboard/homeUser
+no se puede modificar la fecha real de viaje despes de cumplido, y poner validacion
+guardar historial por administrador
+Historial de la orden
+no puede ser menor a la fecha de emision
+fecha de vigencia editable sin modificar la solicitud
+arreglare eliminar imagen de ordenes / actualizar imagen en operadores
+en la paginacion de ordenes poner ... para muchas paginas
+archivos en carpetas por meses
+(opcional) mostrar sidebar actual al actualizar
+seccion actualizar password 
+upload img en operator
+arreglar las peticiones con guard en el modulo de base de datos
+corregir filtro modo dark en usuario y operadores (esta blanco)
+loading en los botones de backticket
+revisar la base de datos de historial de orden para orden cronologico
+en wablas existe `respondio`? - (no existe la funcionalidad)
+en la exportacion debemos ajustar para que aparezca el tipo de documento
+alerta de wablas desconectado
+el operador no debe tener boton agregar ordenes
+arreglar busqueda de detalles de la orden
+habilirar para enviar email al registrar user
+if user only redirect to order list (not history)
+web - en inicio de session borrar espcion antes y despues
+web - no se actualiza si estoy en notificacion y abro notificacions
+web - corregir cerrar session
+arreglar la exportacion de excel, permitir tildes
+descarga de csv y pdf en detalles de orden
+vadaciones a formularios
+-----------
+* Campo alfanumérico en tiquete 
+* Contador de ordenes ( que muestre el total de órdenes filtradas)
+* Icono operador en los usuarios 
+solo dejar el admin, borrar todos los users
+* Filtro de fecha asociado al estado 
+	( por ejemplo si se aplica un filtro de cumplidas, 
+	el filtro de fecha debe ser desde fecha de cumplimiento hasta fecha cumplimiento)
+* Validacion de # de tiquete irrepetible
+* No permitir escritura en el campo valor para usuarios, solo al admin (EN EL FORMULARIO)
+* Exportaciones de csv a Excel
+en modo colaborador se desconecta wablas (modificar rol en backend)
+-------------
