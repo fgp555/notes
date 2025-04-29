@@ -33,6 +33,7 @@
   <body class="markdown-body">
     <header>
       <nav>
+        <a href="/administration/">Home</a>
         <a href="?file=01-propuesta.md">Propuesta</a>
         <a href="?file=02-scrum.md">Scrum</a>
         <a href="?file=03-doc-web.md">Doc Web</a>
@@ -51,7 +52,7 @@
       const params = new URLSearchParams(window.location.search);
       const file = params.get("file") || "02-scrum.md"; // usa parámetro o default
 
-      fetch(file)
+      fetch(file + "?2025_04_29")
         .then((response) => {
           if (!response.ok) {
             throw new Error("Archivo no encontrado");

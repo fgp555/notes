@@ -141,3 +141,33 @@
 # 🧱 **Sprint 4** 🏃‍♂️ Entrega Final y Capacitación
 
 ---
+
+# 🧱 **Sprint Extra** 🏃‍♂️ Patient Module
+
+## 📦 **Product Backlog**
+
+| Función/Tarea | Descripción                                    | Prioridad |
+| ------------- | ---------------------------------------------- | --------- |
+| Patient       | Subir documentos del paciente y/o acompañantes | Alta      |
+| Patient       | Vista publica de carga de documentos           | Alta      |
+| Patient       | Descargar PDF con los documentos               | Media     |
+
+---
+
+- **Fecha de Inicio:** 30/abril/2025
+- **Fecha de Finalización:** 06/mayo/2025
+- **Duración del Sprint:** 1 semana
+- **Objetivo del Sprint:** Gestión de documentos del paciente
+
+### ✅ Historias de Usuario y Tareas
+
+| Historia/Tarea | Descripción                                                             | Estado      |
+| :------------- | :---------------------------------------------------------------------- | :---------- |
+| Database       | Crear, editar, eliminar y listar user desde el panel de administración. | En progreso |
+
+### 🎯 Entregables
+
+- Subir documentos del paciente y/o acompañantes
+- Visualizar documentos del paciente
+- Borrar documentos del paciente
+- ***

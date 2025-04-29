@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <title>Enye Innovation</title>
+    <title>Administration</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css" />
     <style>
@@ -23,7 +23,6 @@
       }
       nav {
         display: flex;
-        flex-wrap: wrap;
         justify-content: center;
         gap: 20px;
         padding: 20px;
@@ -40,12 +39,7 @@
   <body class="markdown-body">
     <header>
       <nav>
-        <a href="/administration/">Home</a>
-        <a href="?file=planning.md">plan</a>
-        <a href="?file=recruitment.md">recruit</a>
-        <a href="?file=marketing.md">marketing</a>
-        <a href="?file=roadmap.md">roadmap</a>
-        <a href="?file=talent-management.md">talent</a>
+        <a href="?file=readme.md">readme</a>
       </nav>
     </header>
     <main id="markdown-content"></main>
@@ -59,7 +53,7 @@
 
       // --- Aquí se obtiene el parámetro 'file' de la URL ---
       const params = new URLSearchParams(window.location.search);
-      const file = params.get("file") || "planning.md"; // usa parámetro o default
+      const file = params.get("file") || "readme.md"; // usa parámetro o default
 
       fetch(file + "?2025_04_29")
         .then((response) => {
