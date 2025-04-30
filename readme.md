@@ -10,7 +10,7 @@
 
 # Meets
 
-- [meet](./meet/meet-2025-04-29/)
+- [meet](./meet/meet-2025-04-29)
 
 ## App
 
