@@ -1,3 +1,17 @@
+agregar seguridad token a los nuevo enpoints
+
+consultar tiquetes aprobados
+
+
+pendiente adjuntar documento, 
+
+button: subir imagen frontal principal frontal/reveso
+button: subir imagen frontal acompañante frontal/reveso
+
+.................
+
+front > whatsapp > mensajes en left/right
+
 mobile - loop en mobile
 web - crear enpoint para enviar fecha de vencimiento de wablas
 web - en editar user agregar quitar operador

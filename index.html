@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <title>Administration</title>
+    <title>Notes</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css" />
     <style>
@@ -65,6 +65,7 @@
         .then((text) => {
           const html = marked.parse(text);
           document.getElementById("markdown-content").innerHTML = html;
+          import("https://frank-gp.github.io/lib/highlight.js");
         })
         .catch((error) => {
           console.error("Error cargando el Markdown:", error);
