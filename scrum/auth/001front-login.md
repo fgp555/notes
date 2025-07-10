@@ -48,3 +48,39 @@
 ### Backend Despliegue
 
 - [https://express-js-login.onrender.com](https://express-js-login.onrender.com/)
+
+# Requests
+
+```sh
+### 🔐 LOGIN Local
+POST http://localhost:3000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@example.com",
+  "password": "123456"
+}
+```
+
+```sh
+### 🔐 LOGIN Remoto
+POST https://express-js-login.onrender.com/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@example.com",
+  "password": "123456"
+}
+```
+
+# 📌 Preguntas Frecuentes
+
+> - 👉 ¿Cuándo deberíamos usar una ruta relativa (`/api/auth/login`) y cuándo una absoluta (`https://domain.com/auth/login`)? Explica los pros, contras y contexto.
+
+> - ¿Qué riesgos podrían existir al dejar rutas absolutas hardcodeadas en el código cliente?
+
+> - ¿Cuando usar `npm run dev` y cuando usar `npm start`?
+
+# 📌 Ejemplo de buena práctica a debatir:
+
+> - ¿Considerarían buena práctica crear un archivo src/config/apiRoutes.js que contenga todas las rutas del backend y usarlas desde ahí? ¿Por qué sí o por qué no?
