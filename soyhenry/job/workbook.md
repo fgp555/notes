@@ -1,4 +1,4 @@
-# 📄 Plan de Búsqueda Laboral
+# 📄 Workbook Plan de Búsqueda Laboral
 
 Al empezar la búsqueda laboral es importante que prepares el terreno, detallando tu objetivo **SMART** de forma clara y específica, conociendo tu propuesta de valor.
 

@@ -1,3 +1,5 @@
+<!-- corregir con claude ia -->
+
 # 📋 Q&A - LinkedIn Profile
 
 ## 📌 ¿Por qué LinkedIn?
