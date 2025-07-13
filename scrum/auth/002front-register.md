@@ -13,6 +13,7 @@
   - [ ] El campo `email` debe tener formato válido.
   - [ ] `password` debe tener mínimo 6 caracteres.
   - [ ] `confirmPassword` debe coincidir con `password`.
+- [ ] Al hacer blur (perder el foco) en cada campo, se validan y muestran errores si corresponde.
 - [ ] Al enviar, se muestra un loader/spinner y se desactiva el botón.
 - [ ] Se realiza la petición `POST` al backend con los datos del formulario.
 - [ ] Si el registro es exitoso:
@@ -26,6 +27,7 @@
 - [ ] Rama `feature/register-frontend` creada.
 - [ ] Se usó `axios` para enviar datos al backend.
 - [ ] Se incluyó manejo de estado de carga (`loading`) y errores (`errorMessage`).
+- [ ] El formulario implementa validación por campo con eventos `onBlur`.
 - [ ] El código tiene validaciones en cliente antes de enviar datos.
 - [ ] El componente es accesible y responsive.
 - [ ] El flujo fue probado en navegador (desktop y móvil).
@@ -56,7 +58,7 @@ https://express-js-login.onrender.com/
 
 ## 🔐 Requests de prueba
 
-**Peticion Local**
+**Petición Local**
 
 ```
 POST http://localhost:3000/api/auth/register
@@ -69,7 +71,7 @@ Content-Type: application/json
 }
 ```
 
-**Peticion Remota**
+**Petición Remota**
 
 ```
 POST https://express-js-login.onrender.com/api/auth/register
@@ -87,6 +89,7 @@ Content-Type: application/json
 ## 📌 Preguntas Frecuentes
 
 - ¿Cuál es el riesgo de no validar la coincidencia entre `password` y `confirmPassword` antes de enviar?
+- ¿Qué feedback es más útil para el usuario: mostrar errores al enviar o al salir de cada campo?
 
 ---
 
