@@ -1,12 +1,14 @@
 # Entrenamiento Scrum
 
-> - https://gh.fgp.one/notes/scrum/auth/001front-login
-> - https://gh.fgp.one/notes/scrum/auth/002front-register
-> - https://gh.fgp.one/notes/scrum/auth/003front-dash
+> - https://gh.fgp.one/notes/scrum/auth/front-001-register
+> - https://gh.fgp.one/notes/scrum/auth/front-002-login
+> - https://gh.fgp.one/notes/scrum/auth/front-003-dashboard
+> - https://gh.fgp.one/notes/scrum/auth/front-004-token
+> - https://gh.fgp.one/notes/scrum/auth/front-005-password
 
 # Flutter
 
-> - https://gh.fgp.one/notes/scrum/auth/001flutter-login
+> - https://gh.fgp.one/notes/scrum/auth/flutter-002-login
 
 ```js
 const express = require("express");
