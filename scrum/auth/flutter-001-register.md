@@ -23,6 +23,7 @@
 - [ ] Los campos de contraseña permiten mostrar/ocultar su contenido con un ícono (👁️):
   - [ ] Si el formulario **no incluye `confirmPassword`**, el campo `password` debe tener un ícono para mostrar/ocultar la contraseña.
   - [ ] Si el formulario **incluye `confirmPassword`**, ambos campos deben tener íconos de mostrar/ocultar contraseña.
+  - [ ] por ahora, la pantalla de /login solo debe mostrar un texto.
 
 ---
 
@@ -45,9 +46,9 @@
 
 ## 📎 Referencias
 
-- [flutter.dev - Forms](https://docs.flutter.dev/cookbook/forms/validation)  
-- [Dio (HTTP Client)](https://pub.dev/packages/dio)  
-- [Provider](https://pub.dev/packages/provider)  
+- [flutter.dev - Forms](https://docs.flutter.dev/cookbook/forms/validation)
+- [Dio (HTTP Client)](https://pub.dev/packages/dio)
+- [Provider](https://pub.dev/packages/provider)
 - [FormBuilder](https://pub.dev/packages/flutter_form_builder)
 
 ---
