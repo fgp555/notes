@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Render dinámico — data.md</title>
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css" /> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css" />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <section id="viewer">Cargando...</section>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/5.1.1/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+    <script>
+      async function loadMarkdown() {
+        const viewer = document.getElementById("viewer");
+        const query = window.location.search.substring(1); // ej: ?251017-3 → "251017-3"
+
+        try {
+          const res = await fetch("data.md");
+          const text = await res.text();
+          import("https://frank-gp.github.io/lib/highlight.js");
+
+          if (!query) {
+            // 🔹 Si no hay parámetro → mostrar lista de secciones
+            const titles = [...text.matchAll(/^# (.+)$/gm)].map((m) => m[1]);
+            if (titles.length === 0) {
+              viewer.innerHTML = "<p>No hay secciones en data.md</p>";
+              return;
+            }
+
+            viewer.innerHTML = `
+              <h2>Selecciona una sección:</h2>
+              <ul>
+                ${titles.map((t) => `<li><a href="?${t.trim()}">${t.trim()}</a></li>`).join("")}
+              </ul>
+            `;
+            return;
+          }
+
+          // 🔹 Buscar la sección correspondiente
+          const regex = new RegExp(`(^|\\n)# ${query}[\\s\\S]*?(?=\\n# |$)`);
+          const match = text.match(regex);
+
+          if (!match) {
+            viewer.innerHTML = `<p>No se encontró la sección <strong>${query}</strong> en data.md</p>`;
+            return;
+          }
+
+          const mdSection = match[0].trim();
+
+          marked.setOptions({
+            highlight: (code, lang) => {
+              try {
+                return hljs.highlightAuto(code).value;
+              } catch {
+                return code;
+              }
+            },
+          });
+
+          viewer.innerHTML = marked.parse(mdSection);
+          document.querySelectorAll("pre code").forEach((el) => hljs.highlightElement(el));
+        } catch (e) {
+          viewer.innerHTML = `<p>Error cargando <code>data.md</code>: ${e}</p>`;
+        }
+      }
+
+      loadMarkdown();
+    </script>
+  </body>
+</html>
