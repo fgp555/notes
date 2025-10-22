@@ -1,3 +1,29 @@
+# 251022
+
+https://www.instagram.com/reels/DQFbp78jPew
+
+```md
+one of the hardest parts about being in a relationship is accepting that you
+and your partner are going to hurt each other.
+most people don't want to hear this; 
+they think real love means never causing pain, but that's fantasy.
+real relationships, that last require constant forgiveness
+your partner will disappoint you
+they'll say the wrong thing at the wrong time  
+they'll let you down when you need them
+not because they're bad people, but because they're human
+and you'll hurt them too; you'll be selfish sometime.
+you'll miss their needs 
+you'll fail them in ways you never intended
+the question isn't whether this will happen
+it will the question is whether you're willing to work through it when it does
+whether you can forgive and be forgiven
+whether the relationship is worth the inevitable pain
+perfect partners don't exist
+but partners worth keeping do
+they're the ones who stay and work through the hurt together
+```
+
 # 251021
 
 https://www.instagram.com/reels/DP_5f-ukxUw

@@ -14,8 +14,11 @@ and the possibility of children and that the manner in which you're going to int
 and you have to start considering your life together from the perspective of practicality and economics
 I would say It can't just be that massive erotic attraction that's associated with love although I think that's extraordinarily important
 and you're unbelievably fortunate if you have that and you should do everything you can to maintain it which and that takes effort and will
+```
 
-## 2025-10-21
+# 251021
+
+```
 
 but, you need to ally that with maturity and intelligence
 and the maturity and intelligence is ok, we're going to put our lives together.
@@ -42,6 +45,31 @@ and it's really important that it is of that high quality and sustainability
 because the relationship especially when it starts to produce children is a machine, let's say a machive that you jointly operate that adds immensely to the quality of your life and the depth of your life
 ```
 
+# 251022
+
+```md 
+you have the rope and strand of your life and your partner has the strands 
+and the rope of his or her life and then those are tied together to make a stronger rope 
+and then that unites you across time and then you undertake massive adventures together 
+some of that is the establishment of a household the establishment of joint careers 
+and the maintenance of each other's mental and physical health, 
+the maintenance of a high quality sexual life and all of that very challenging to do all of that 
+and then the joint  production and care children 
+which don't be thinking that you can't organize your life when you have children
+the thing about modern people is that they're terrified of children 
+because they think they regard children as if they're miniature tyrants 
+they can be, of course because anyone will tyrannize over you if you allow them to perhaps not anyone but virtually anyone 
+why not regulate your children's behavior?
+I wrote a chapter in my new book called 
+"Don't let you children do anything that makes you dislike them"
+and that's like really serious advice it's like, 
+if you allow your children to conduct themselves around you in a manner that makes you dislike them 
+if you're paying attention to the shadow side of yourself that can be aggresive 
+and destructive then having children is going to mess up your life
+but you don't have to do that you actually have a tremendous amount of control over the quality of your relationship with your children 
+and also the manner in which you choose to just disperse your time 
+```
+
 # Powerful
 
 WHEN LIFE BREAKS YOU - Powerful Motivational Speech
@@ -53,16 +81,23 @@ I don't care how good you are, I don't care how talented you are
 I don't care how much you work on yourself
 there's some times when things aren't gonna go right.
 there are times when anything that can happen, will happen.
+
 Life happens. the unexpected. the uncalled for. the unintentional.
 We've been damaged emotionally, damaged spiritually.
 It may be your business, it may be your heart that is broken today
 it may be the number in your bank account that is screaming you are broke.
 
-you break physically, you can break mentally, you can break your heart, you can break your spirit. and all of those are gonna leave a mark.
+you break physically, you can break mentally, you can break your heart, 
+you can break your spirit. and all of those are gonna leave a mark.
 but the mark that they leave can be the mark of victory
-or it can be the mark of defeat, it is staying with the breaking that produces the blessing. It is not what you go through that determines where you end up. it's who you listen to.
+or it can be the mark of defeat, it is staying with the breaking that produces the blessing. 
+It is not what you go through that determines where you end up. it's who you listen to.
 
-'Cause I think right now you are walking through a valley between two voices. one is wisdom, one is worry, one is gratitude, one is grumbling, one is blame, one is faith.
+'Cause I think right now you are walking through a valley between two voices. one is wisdom, 
+one is worry, one is gratitude, one is grumbling, one is blame, one is faith.
 
-because every time you break, and in every way that you break, while it's a chance for you to give up and for you to fall apart, but there's also apportunity to get stronger. and get smarter, and get faster and get tougher, and get more stable, and get more resilient and get better.
+because every time you break, and in every way that you break, 
+while it's a chance for you to give up and for you to fall apart, 
+but there's also apportunity to get stronger. and get smarter, 
+and get faster and get tougher, and get more stable, and get more resilient and get better.
 ```
