@@ -1,3 +1,32 @@
+# 251023
+
+```md
+I know I'm not perfect,
+but I wanna be everything you dream of,
+I wanna be the man who understands,
+not just the big things,
+but the small details too
+
+I want you to tell me what you like
+what makes you laugh
+what makes you feel safe
+teach me how to love you the way you want to be loved
+I don't want to assume 
+I know what you need
+I want to listen to learn 
+your happiness means everything to me
+and I'll never stop stop trying to be the man who brings it to you
+
+I wanna be the one who shows up for you who gets it right, 
+who learns from my mistakes
+I'll always be ready to grow, to change
+and to love you deeply than I did yesterday
+tell me your dreams, your desires, your fears,
+and I promise I'll be right here
+
+https://www.instagram.com/reels/DLcd1IDhIle/
+```
+
 # 251022
 
 https://www.instagram.com/reels/DQFbp78jPew
@@ -5,7 +34,7 @@ https://www.instagram.com/reels/DQFbp78jPew
 ```md
 one of the hardest parts about being in a relationship is accepting that you
 and your partner are going to hurt each other.
-most people don't want to hear this; 
+most people don't want to hear this;
 they think real love means never causing pain, but that's fantasy.
 real relationships, that last require constant forgiveness
 your partner will disappoint you
@@ -13,7 +42,7 @@ they'll say the wrong thing at the wrong time
 they'll let you down when you need them
 not because they're bad people, but because they're human
 and you'll hurt them too; you'll be selfish sometime.
-you'll miss their needs 
+you'll miss their needs
 you'll fail them in ways you never intended
 the question isn't whether this will happen
 it will the question is whether you're willing to work through it when it does
