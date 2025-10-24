@@ -1,4 +1,47 @@
+# 251024
+
+https://www.instagram.com/reels/DMIP3pbxYSw
+
+```md
+be like water, adapt and overcome
+water doesn't fight obstacles, it flows around them.
+when it meets a rock, it doesn't stop,
+it find a way forward
+
+over time, it even carves through the hardest stone
+life will throw challenges your way
+but instead of resisting learn to adapt
+keep moving, keep evolving,
+and let nothing stop your progress.
+```
+
+https://www.instagram.com/reels/DNMJBnCyK9F
+
+```md
+the person you love most is also the one who triggers you most.
+that's not a coincidence, it's how love actually works
+your partner isn't there just to make you happy
+they're there to show you the parts of yourself you've been avoiding,
+
+the wounds you haven't healed,
+the patterns you keep repeating
+the way they challenge you
+the way they make you feel exposed and vulnerable.
+
+that's not a problem with your relationship, that's love doing its job
+real love doesn't just comfort you, it forces you to grow
+it holds up a mirror to your worst habits and deepest fears
+it makes you confront the version of yourself you'd rather ignore
+
+that's why relationships are so hard
+your're not just dealing with another person
+you're dealing with everyhing they bring up in you that you thought you had handled
+love isn't supposed to be easy, it's supposed to change you
+```
+
 # 251023
+
+https://www.instagram.com/reels/DLcd1IDhIle
 
 ```md
 I know I'm not perfect,
@@ -11,20 +54,18 @@ I want you to tell me what you like
 what makes you laugh
 what makes you feel safe
 teach me how to love you the way you want to be loved
-I don't want to assume 
+I don't want to assume
 I know what you need
-I want to listen to learn 
+I want to listen to learn
 your happiness means everything to me
 and I'll never stop stop trying to be the man who brings it to you
 
-I wanna be the one who shows up for you who gets it right, 
+I wanna be the one who shows up for you who gets it right,
 who learns from my mistakes
 I'll always be ready to grow, to change
 and to love you deeply than I did yesterday
 tell me your dreams, your desires, your fears,
 and I promise I'll be right here
-
-https://www.instagram.com/reels/DLcd1IDhIle/
 ```
 
 # 251022
@@ -60,17 +101,20 @@ https://www.instagram.com/reels/DP_5f-ukxUw
 ```md
 3 things a woman needs from her man, not 30, not 50, only 3 things
 
-1. Attention: she needs to know that when she's talking you're not somewhere else and that her thoughts matter.
-   put that phone down, make eye contact and listen; give her that focus and she'll feel value like nothing else
+1. Attention: she needs to know that when she's talking,
+   you're not somewhere else and that her thoughts matter.
+   put that phone down, make eye contact and listen;
+   give her that focus and she'll feel value like nothing else
 
 2. Respect: show her don't just say it, respect her choices,
-   respect her voice, respect the woman she is; it's in your actions,
-   not just the words. When she feels respect She'll stand by your side through anything.
-   And that's when you now you've got something real.
+   respect her voice, respect the woman she is; 
+   it's in your actions, not just the words. 
+   when she feels respect, she'll stand by your side through anything.
+   and that's when you know you've got something real.
 
 3. Last one. Security: and I'm not just talking about finances man,
    make her feel safe with you, make her feel like she can trust you,
-   when a woman feels secrure emotionally and physically,
+   when a woman feels secure emotionally and physically,
    she'll bring out the best in you, and that's how a relationship grow strong
 ```
 

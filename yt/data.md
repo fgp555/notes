@@ -121,7 +121,7 @@ I can beat it, I can be it, I will beat it, I must, I got a family to live for,
 I ain't through yet, my life ain't over yet.
 that's some things in life, you don't need no degree for it,
 you don't need no money for it, you don't need no support for it,
-there's some things in life you just gonna get though when you tell yourself: 
+there's some things in life you just gonna get though when you tell yourself:
 I'm gonna get through this.
 
 Regardless of what happens to you in life,
@@ -157,4 +157,13 @@ if you are willing to fight your way through that singing carrer,
 fight you way through boxing,
 fight you way through football,
 I'm telling you at the end of the fight is going to come victory.
+
+## 251024
+
+and as you crawl up and out of that dismal and wretched place,
+as you rise above what you were,
+and as you take the form of who you are supposed to be,
+you will see that in the very act standing up,
+in the very act of fighting on,
+you will become and you will remain unbroken.
 ```
