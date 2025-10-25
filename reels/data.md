@@ -1,3 +1,68 @@
+# 251025
+
+https://www.instagram.com/reels/DPJx-hNiNpk/
+
+```md
+there are millions of pretty women out there,
+loyal women, too fun and exciting women,
+are in every city of every country on earth.
+
+but if you have a woman who's helped you
+when your mind was at war,
+who didn't judge you or lose respect for you
+as you struggled in the battle against yourself,
+who cared who tried to help you in any way she can,
+who was understanding, patient, loving and kind,
+
+she's truly a one in a million
+she's the one who sees the cracks in your soul and doesn't look away
+she doesn't love you for what you can give her,
+but for who you are, even when you don't recognize yourself.
+
+and if you're lucky enough to have her you,
+hold on to her with everything you've got,
+because women like that aren't just partners,
+they're healers, warriors,
+the quiet force that pulls you back from the edge
+```
+
+https://www.instagram.com/reels/DKFBG3MsV4C/
+
+```md
+soulmates don't meet by accident,
+they meet because you both needed each other without knowing it.
+because something in both of you was missing.
+that only the other could bring
+
+everything you don't have, they do.
+and everything they don't have, you do.
+soulmates don't come to give you every thing.
+they come to remind you what it feels like to be whole.
+
+they meet because something unexplainable wants them to.
+because the world feels less like chace and more like purpose
+when you find the person who makes it all feel right
+```
+
+https://www.instagram.com/reels/DO3Ks9DDPD8/
+
+```md
+I just need a hug not advice not solutions
+not someone telling me to be strong
+just a real quiet moment
+where someone holds me
+
+and I don't have to say anything
+I want to feel like I'm not alone
+like someone sees me
+really sees me and still stays
+
+I'm so tired of holding it all in
+of pretending i'm fine
+i just want to let go for a second
+and feel safe
+```
+
 # 251024
 
 https://www.instagram.com/reels/DMIP3pbxYSw
@@ -107,8 +172,8 @@ https://www.instagram.com/reels/DP_5f-ukxUw
    give her that focus and she'll feel value like nothing else
 
 2. Respect: show her don't just say it, respect her choices,
-   respect her voice, respect the woman she is; 
-   it's in your actions, not just the words. 
+   respect her voice, respect the woman she is;
+   it's in your actions, not just the words.
    when she feels respect, she'll stand by your side through anything.
    and that's when you know you've got something real.
 
