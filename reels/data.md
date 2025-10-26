@@ -1,3 +1,52 @@
+# 251026
+
+https://www.instagram.com/reels/DNuq-tEZD5f/
+
+```md
+there are 12 secrets for a healthy marriage
+
+1. date each other forever:
+   just because you're married
+   doesn't mean you have to stop going on dates.
+2. when you are hurt
+   say so gently instead of attacking
+3. always keep you phones away during quality time
+4. learn each other's love languages fluently
+5. never use silence as punishment
+6. create traditions that are just yours
+7. complement each other more than you criticize
+8. handle each other's vulnerabilities with care
+9. when you come across a problem
+   fight the problem, not each other
+10. maintain physical connection daily even if just holding hands
+11. remember why you chose them, when times get touch
+12. grow together so you don't grow apart
+```
+
+https://www.instagram.com/reels/DJmev1bpapz/
+
+```md
+this is my promise to you
+I'm not with you for the short term
+I'm not here to waste your time
+I'm here to build a life, a future and a story with you
+I want to spend the rest of my life waking up next to you
+I'm in it for the long haul
+I'm not going anywhere without my best friend by my side
+```
+
+https://www.instagram.com/reels/DMdFToORp2_/
+
+```md
+the couple that finds each other later in life
+shares a different kind of love
+it's not rushed. It rooted.
+They carry stories, scars and strength.
+Together, they don't just fall in love.
+They heal, grow and build something beautiful
+from all they've learned
+```
+
 # 251025
 
 https://www.instagram.com/reels/DPJx-hNiNpk/

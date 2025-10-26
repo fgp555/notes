@@ -1,0 +1,396 @@
+<!-- https://chatgpt.com/c/680e3c6b-0b3c-8006-80d2-13ace0bcb56f -->
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Typing to practice writing in English</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <script src="https://frank-gp.github.io/component/stat.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+      main {
+        max-width: fit-content;
+      }
+      #result {
+        margin-top: 20px;
+        font-size: 1.2rem;
+      }
+      .correct {
+        color: green;
+      }
+      .incorrect {
+        color: red;
+        text-decoration: underline;
+      }
+      .counters {
+        font-size: 0.8;
+        opacity: 0.7;
+      }
+      textarea {
+        min-height: 10rem;
+        overflow-y: hidden;
+        resize: none;
+      }
+      footer {
+        text-align: center;
+      }
+      .red {
+        color: red;
+      }
+      .green {
+        color: white;
+        background-color: green;
+        padding: 0.2rem 0.8rem;
+        border-radius: 1rem;
+      }
+      .fz-sm {
+        font-size: 0.8rem;
+      }
+      .markdown-content {
+        max-width: 50rem;
+        margin: 5rem auto;
+      }
+      #toggleThemeBtn {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        padding: 0.8rem 1rem;
+        border-radius: 50px;
+        background-color: #444;
+        color: white;
+        border: none;
+        cursor: pointer;
+        z-index: 1000;
+        font-size: 1.5rem;
+      }
+      #fileSelector {
+        /* width: 100%; */
+        max-width: fit-content;
+      }
+      pre {
+        white-space: pre-wrap;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <h1>
+        <a href="../">Typing to practice writing in English</a>
+      </h1>
+
+      <label for="textToType"
+        ><strong>Pega aquí el texto en inglés:</strong>
+        <span id="originalCounters" class="counters">Palabras: 0 | Caracteres: 0</span></label
+      >
+      <textarea id="textToType" placeholder="Pega el texto aquí..."></textarea>
+
+      <label for="userInput"
+        ><strong>Escribe el texto:</strong>
+        <span id="typedCounters" class="counters">Palabras: 0 | Caracteres: 0 |</span>
+        <span id="timer" class="green">Tiempo: 60s</span>
+      </label>
+      <textarea id="userInput" placeholder="Escribe aquí..." disabled></textarea>
+
+      <div style="margin-top: 1rem">
+        <button id="startBtn">Comenzar</button>
+        <button id="clearBtn" class="secondary">Borrar historial</button>
+      </div>
+
+      <div id="result"></div>
+
+      <select id="fileSelector"></select>
+      <div id="markdown-content" class="markdown-content"></div>
+    </main>
+
+    <button id="toggleThemeBtn">
+      <i id="themeIcon" class="fas fa-moon"></i>
+    </button>
+
+    <script>
+      window.onload = function () {
+        const files = [
+          {
+            name: "Fix Yourself Before It's Too Late",
+            url: "./speech/250612-fix-yourself-before.md",
+          },
+          {
+            name: "Dominate 2025",
+            url: "./speech/250601-dominate-2025.md",
+          },
+          {
+            name: "Stop Missing",
+            url: "./speech/250427-stop-missing.md",
+          },
+        ];
+
+        const fileSelector = document.getElementById("fileSelector");
+
+        files.forEach((file, index) => {
+          const option = document.createElement("option");
+          option.value = file.url;
+          option.textContent = file.name;
+          if (index === 0) option.selected = true;
+          fileSelector.appendChild(option);
+        });
+
+        function loadMarkdown(url) {
+          fetch(url + "?" + Date.now())
+            .then((response) => response.text())
+            .then((text) => {
+              const html = marked.parse(text);
+              document.getElementById("markdown-content").innerHTML = html;
+            })
+            .catch((error) => {
+              console.error("Error cargando el Markdown:", error);
+            });
+        }
+
+        // Cargar el archivo por defecto
+        loadMarkdown(files[0].url);
+
+        // Cambiar al seleccionar otro archivo
+        fileSelector.addEventListener("change", (e) => {
+          loadMarkdown(e.target.value);
+        });
+      };
+    </script>
+
+    <script>
+      const toggleBtn = document.getElementById("toggleThemeBtn");
+      const themeIcon = document.getElementById("themeIcon");
+      const html = document.documentElement;
+
+      function updateIcon(theme) {
+        if (theme === "light") {
+          themeIcon.classList.remove("fa-moon");
+          themeIcon.classList.add("fa-sun");
+        } else {
+          themeIcon.classList.remove("fa-sun");
+          themeIcon.classList.add("fa-moon");
+        }
+      }
+
+      window.addEventListener("DOMContentLoaded", () => {
+        const savedTheme = localStorage.getItem("theme") || "dark";
+        html.setAttribute("data-theme", savedTheme);
+        updateIcon(savedTheme);
+      });
+
+      toggleBtn.addEventListener("click", () => {
+        const currentTheme = html.getAttribute("data-theme");
+        const newTheme = currentTheme === "dark" ? "light" : "dark";
+        html.setAttribute("data-theme", newTheme);
+        localStorage.setItem("theme", newTheme);
+        updateIcon(newTheme);
+      });
+    </script>
+
+    <script>
+      const textToType = document.getElementById("textToType");
+      const userInput = document.getElementById("userInput");
+      const timer = document.getElementById("timer");
+      const startBtn = document.getElementById("startBtn");
+      // const compareBtn = document.getElementById("compareBtn");
+      const clearBtn = document.getElementById("clearBtn");
+      const result = document.getElementById("result");
+      const originalCounters = document.getElementById("originalCounters");
+      const typedCounters = document.getElementById("typedCounters");
+
+      let timeLeft = 60;
+      let timerInterval;
+
+      startBtn.addEventListener("click", startGame);
+      // compareBtn.addEventListener("click", compareTexts);
+      clearBtn.addEventListener("click", clearHistory);
+
+      updateOriginalCounters();
+      autoResize(textToType);
+
+      textToType.addEventListener("input", () => {
+        updateOriginalCounters();
+        autoResize(textToType);
+      });
+
+      userInput.addEventListener("input", () => {
+        updateTypedCounters();
+        autoResize(userInput);
+      });
+
+      function startGame() {
+        const text = textToType.value.trim();
+        if (text === "") {
+          alert("Por favor, pega o escribe un texto antes de comenzar.");
+          return;
+        }
+
+        userInput.value = "";
+        userInput.disabled = false;
+        userInput.focus();
+        timeLeft = 60;
+        timer.textContent = `Tiempo: ${timeLeft}s`;
+
+        clearInterval(timerInterval);
+        timerInterval = setInterval(() => {
+          timeLeft--;
+          timer.textContent = `Tiempo: ${timeLeft}s`;
+          if (timeLeft <= 0) {
+            clearInterval(timerInterval);
+            userInput.disabled = true;
+            compareTexts();
+          }
+        }, 1000);
+      }
+
+      function compareTexts() {
+        const original = textToType.value.trim();
+        const typed = userInput.value.trim();
+
+        if (!original || !typed) {
+          alert("Debe haber texto en ambos campos para comparar.");
+          return;
+        }
+
+        const originalWords = original.split(/\s+/);
+        const typedWords = typed.split(/\s+/);
+
+        let comparison = "";
+        let correctCount = 0;
+
+        for (let i = 0; i < typedWords.length; i++) {
+          if (originalWords[i] === typedWords[i]) {
+            comparison += `<span class="correct">${typedWords[i]}</span> `;
+            correctCount++;
+          } else {
+            comparison += `<span class="incorrect">${typedWords[i] || ""}</span> `;
+          }
+        }
+
+        result.innerHTML = `<h3>Resultado:</h3><p>${comparison}</p><p>Palabras correctas: ${correctCount} / ${originalWords.length}</p>`;
+
+        saveHistory(typed, correctCount, originalWords.length);
+        showHistory();
+      }
+
+      function updateOriginalCounters() {
+        const text = textToType.value.trim();
+        const words = text ? text.split(/\s+/).length : 0;
+        const chars = text.length;
+        originalCounters.textContent = `Palabras: ${words} | Caracteres: ${chars}`;
+      }
+
+      function updateTypedCounters() {
+        const text = userInput.value.trim();
+        const words = text ? text.split(/\s+/).length : 0;
+        const chars = text.length;
+        typedCounters.textContent = `Palabras: ${words} | Caracteres: ${chars}`;
+      }
+
+      function autoResize(textarea) {
+        textarea.style.height = "2rem";
+        textarea.style.height = textarea.scrollHeight + "px";
+      }
+
+      function saveHistory(typedText, correctWords, totalWords) {
+        const history = JSON.parse(localStorage.getItem("typingHistory")) || [];
+
+        history.push({
+          date: Date.now(),
+          correctWords,
+          totalWords,
+          typedText,
+        });
+
+        // Guardamos el historial actualizado en el localStorage
+        localStorage.setItem("typingHistory", JSON.stringify(history));
+      }
+
+      function showHistory() {
+        const history = JSON.parse(localStorage.getItem("typingHistory")) || [];
+
+        // Verificamos si hay historial
+        if (history.length === 0) {
+          result.innerHTML += "<p><em>No hay historial guardado.</em></p>";
+          return;
+        }
+
+        let historyHtml = "<h3>Historial:</h3><ul>";
+
+        history.sort((a, b) => b.date - a.date);
+
+        // Mostramos los 5 registros más recientes
+        history.slice(0, 5).forEach((item) => {
+          historyHtml += `<li><i class="fz-sm">${new Date(item.date).toLocaleString()}</i> 
+            <strong class="green fz-sm">${item.correctWords}</strong>
+            <i class="fz-sm">/${item.totalWords}</i>
+            <span class="fz-sm">${item?.typedText?.split(" ").slice(0, 5).join(" ")}...</span>
+            </li>`;
+        });
+
+        historyHtml += "</ul>";
+        result.innerHTML += historyHtml;
+      }
+
+      function clearHistory() {
+        if (confirm("¿Seguro que quieres borrar el historial?")) {
+          localStorage.removeItem("typingHistory");
+          result.innerHTML = "<p><em>Historial borrado.</em></p>";
+        }
+      }
+
+      // Borrar historial con Ctrl + S
+      window.addEventListener("keydown", (e) => {
+        if (e.ctrlKey && e.key === "s") {
+          e.preventDefault();
+          clearHistory();
+        }
+      });
+
+      // Comenzar juego con Ctrl + Enter
+      window.addEventListener("keydown", (e) => {
+        if (e.ctrlKey && e.key === "Enter") {
+          e.preventDefault();
+          startGame();
+        }
+      });
+
+      // Borrar historial con triple clic
+      let clickCount = 0;
+      let clickTimer = null;
+
+      window.addEventListener("click", () => {
+        clickCount++;
+        if (clickCount === 4) {
+          clearHistory();
+          clickCount = 0;
+        }
+
+        clearTimeout(clickTimer);
+        clickTimer = setTimeout(() => {
+          clickCount = 0;
+        }, 300); // máximo 600ms entre clics para que cuente como triple clic
+      });
+
+      showHistory();
+    </script>
+
+    <script>
+      const textArea = document.getElementById("textToType");
+
+      // Al cargar la página, intenta cargar el texto guardado
+      window.addEventListener("DOMContentLoaded", () => {
+        const savedText = localStorage.getItem("textToType");
+        if (savedText !== null) {
+          textArea.value = savedText;
+        }
+        autoResize(textArea);
+        updateOriginalCounters();
+      });
+
+      // Cada vez que el usuario escriba algo, guárdalo en localStorage
+      textArea.addEventListener("input", () => {
+        localStorage.setItem("textToType", textArea.value);
+      });
+    </script>
+  </body>
+</html>
