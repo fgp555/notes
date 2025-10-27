@@ -1,3 +1,95 @@
+# 251027
+
+https://www.instagram.com/p/DLdDXw6BAlb/
+
+```md
+15 ways to keep your relationship strong and healthy.
+
+1. never talk about breakups.
+2. Don't say you're okay when you're not.
+3. when you say sorry, you have to mean it.
+4. forget about your pride and ego
+5. don't ever compare your past with your present.
+6. give your partner space
+7. recognize that all relationship have their ups and downs.
+8. resolve arguments together
+9. make your partner a priority.
+10. don't argue over money.
+11. share your thoughts with each other
+12. focus on the positives
+13. respect each other when arguing.
+14. set goals as a couple
+15. trust, support and be honest with each other.
+```
+
+https://www.instagram.com/reels/DJU7sfctBm1/
+
+```md
+5 psychology facts about best friends
+
+1. if a friendship lasts longer than six years
+   psychologists say it will last a lifetime
+2. friendship is not about who you spend the most time with
+   it's about who you have the best time with
+3. a strong friendship doesn't need daily conversation
+   it doesn't always need togetherness
+   true friends can go days, weeks or even months without speaking
+   and pick up exactly where they left off
+   as if no time has passed at all
+4. only a true friend will tell you to your face
+   what others were saying behind your back
+5. best friends are people who make your problems their problems
+   just so you don't have to go through them alone
+```
+
+https://www.instagram.com/reel/DO1JfMNigmg
+
+```md
+these are the six things that make a woman lose interest.
+
+1. lying when you lie to her, it's not just about the truth it's about making her feel like a fool for trusting you
+2. ignoring her: every time you ignore her you teach her how to live without you
+3. going hours without texting: she doesn't need paragraphs just effort silence tells her she's she not even on your mind
+4. being too busy for her: no one is that busy she sees the difference between someone who's busy and someone who doesn't care
+5. making her feel like a second option
+   she notices when your attention shifts and once she feels replaced she emotionally checks out
+6. showing no effort: when she has to beg for love she stops craving it and starts healing from it
+   her interest didn't die overnight
+   you killed it piece by piece with your silence
+```
+
+https://www.instagram.com/reels/DObRskVClTS/
+
+```md
+they say a person only falls in love three times in their life
+the first love usually comes at a young age
+it's reckless, filled with passion but inexperienced
+you grow apart and call it quits over foolish pride or petty things
+years later you'll claim that wasn't real love
+but for that version of you
+it was everything love could be
+
+the second love hits hard
+this one teaches you lessons
+and makes you stronger
+you fall even harder than last time
+and you get hurt and used because of it
+it hardens, you teaches you to spot wolves in sheep's clothing
+you emerge closed but wiser
+knowing exactly what you'll never tolerance again
+
+and then the third, this one doesn't knock
+it slips in while you're not looking
+every wall you put up gets demolished
+you will find yourself caring about them without even trying
+their flaws become sacred to you
+you crave mornings with their chaos nights with their quiet
+you want commitment and a family with them
+this love feels less like falling
+and more like coming home
+to fire that's been waiting for you all along.
+```
+
 # 251026
 
 https://www.instagram.com/reels/DNuq-tEZD5f/
