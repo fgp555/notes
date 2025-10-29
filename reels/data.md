@@ -1,3 +1,56 @@
+# 251029
+
+https://www.instagram.com/reels/DL78QyPy2mG/
+
+```md
+if you're gonna marry me, we have to agree to these five rules:
+
+1. we don't give up when it gets hard,
+   marriage isn't a fairy tale; some days will test us
+   but we made a vow, so we fight for us, not with each other.
+2. we communicate even when it's uncomfortable.
+   silence builds walls, honesty builds bridges,
+   so let's talk even when it's messy.
+3. we choose each other daily, not just when it's easy  
+   but when we're tired, busy or not seeing eye to eye,
+   love is a decision, not just a feeling
+4. we don't keep score,
+   marriage isn't 50 50s some days it's 80 20s
+   some days it's carrying each other through the storm,
+   we're not opponents, we're a team
+5. we never stop dating each other
+   even years in, even with kids, even when life gets heavy
+   because the moment we stop trying, we start drifting
+   so if you're going to marry me, know this
+   I want forever, not convenience
+   I wan't real, not perfect
+```
+
+https://www.instagram.com/reels/DLWzq0jspsq/
+
+```md
+the closer you get to someone,
+the more clearly you see their flaws, that's reality
+it's why marriages fail, why friendships fall apart
+and why people walk away
+you might think you love someone
+until you see how they act when they're broke, stressed or desperate
+
+but love is something else entirely
+love isn't just a feeling, it's a choice, 
+it's standing by someone even when their worst traits surface 
+it's patience, kindness and sacrifice
+
+love isn't easy, it hurts, it tests you
+but real love means seeing the darkness in someone
+and choosing not tu run
+when you love someone, you learn things you never imagined
+love opens your eyes to truth you wouldn't dare face otherwise
+
+it's through love that even life's darkest moments
+reveal threads of hope and resilience
+```
+
 # 251027
 
 https://www.instagram.com/p/DLdDXw6BAlb/
