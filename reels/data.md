@@ -1,3 +1,75 @@
+# 251102
+
+https://www.instagram.com/reels/DLnC1l0tp6h/
+
+```md
+she's single because she's looking for 90s love
+in this 2025 generation, people aren't dating anymore
+they are just talking, catching feeling, sleeping together
+and ending up in situationships
+
+women reach a point in their life where it's not just about sex
+it's about having a real man who loves her,
+protects her and earns her trust.
+if you really want her
+you're gonna have to prove it with your actions, not your words
+
+she wants effort, not excuses, consistency, not confusion
+late night converstions, not late replies, loyalty, not lies
+she's not asking for perfect, she's asking for real
+she's done with half love and almost relationships
+
+she wants something solid, something steady,
+someone who won't ghost when things get real
+someone who builds, not breaks
+because she knows her worth now
+and she won't settle for less than she deserves
+```
+
+https://www.instagram.com/reels/DJjAAxEsPKo/
+
+```md
+if you really love that person, learn to wait. 
+sometimes...
+love isn't about rushing or trying to make things happen right now,
+it's about trusting that, if it's meant to be.
+it'll happen in its own time.
+
+Maybe today isn't the right moment for you both.
+but that doesn't mean the future won't bring you together.
+in the meantime, focus on being the best version of yourself.
+on growing, and on building a life you're proud of.
+
+love that's real, will find its way and,
+when the timing is right, everything will fall into place.
+true love doesn't just fade away,
+it grows even through the distance and the waiting.
+
+so hold on, be patient and believe in what's meant to be.
+let the universe work its magic and when the time is right,
+you'll find yourselves together stronger and more prepared for a beautiful future
+```
+
+https://www.instagram.com/reels/DP8FoVTkq9t/
+
+```md
+there are no accidents in who we meet
+some people come into your life to challenge you,
+some to remind you of who you are and inspire you, some to help you heal,
+and some to show you the kind of love you never believed was possible,
+
+we often think of encounters as random, a chance meeting,
+a passing conversation or an appearance on your newsfeed,
+but what if none of it is random? truth is, there are no coincidences,
+every person shows up for a reason and a purpose,
+even if you don't fully understand what that is until much later,
+
+so pay attention to who walks in,
+especially when you least expect it,
+they may be carrying the wisdom, the wake-up call,
+or the love your soul's been quietly asking for!
+```
+
 # 251029
 
 https://www.instagram.com/reels/DL78QyPy2mG/
@@ -37,8 +109,8 @@ you might think you love someone
 until you see how they act when they're broke, stressed or desperate
 
 but love is something else entirely
-love isn't just a feeling, it's a choice, 
-it's standing by someone even when their worst traits surface 
+love isn't just a feeling, it's a choice,
+it's standing by someone even when their worst traits surface
 it's patience, kindness and sacrifice
 
 love isn't easy, it hurts, it tests you
