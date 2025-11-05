@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Reels</title>
+    <title>training</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css" />
     <link rel="stylesheet" href="style.css" />
   </head>
@@ -19,7 +19,7 @@
         const viewer = document.getElementById("viewer");
 
         // Lista manual de archivos
-        const filesData = ["10", "11"];
+        const filesData = ["daily", "job"];
 
         // URL: ?2510&17 → file="2510.md", section="17"
         const params = window.location.search.substring(1).split("&").filter(Boolean);
@@ -28,11 +28,11 @@
 
         // Cambiar el <title> dinámicamente
         if (file && section) {
-          document.title = `${file}&${section}- Reels`;
+          document.title = `${file}&${section} - training`;
         } else if (file) {
-          document.title = `${file}- Reels`;
+          document.title = `${file} - training`;
         } else {
-          document.title = "Reels";
+          document.title = "training";
         }
 
         // ✅ 1) No hay parámetros → mostrar lista de archivos
