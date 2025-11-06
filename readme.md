@@ -6,6 +6,7 @@
 > - https://gh.fgp.one/notes/reels/25?11&03
 > - https://gh.fgp.one/notes/reels/25?11&04
 > - https://gh.fgp.one/notes/reels/25?11&05
+> - https://gh.fgp.one/notes/reels/25?11&06
 > - https://gh.fgp.one/notes/reels/25?10
 > - https://gh.fgp.one/notes/reels/25?10&27
 
